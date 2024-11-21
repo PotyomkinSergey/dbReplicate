@@ -1,0 +1,21 @@
+{
+  "maxRowsToSyncFromOneTable" : 65535,
+  "masterDbConfig": {
+    "charset": "utf8",
+    "dbName": "",
+    "driver": "mysql",
+    "host": "",
+    "password": "",
+    "port": "",
+    "userName": ""
+  },
+  "slaveDbConfig": {
+    "charset": "utf8",
+    "dbName": "newdb",
+    "driver": "mysql",
+    "host": "172.17.0.1",
+    "password": "111",
+    "port": "3306",
+    "userName": "root"
+  }
+}
